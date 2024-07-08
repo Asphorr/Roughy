@@ -1,4 +1,3 @@
-Конечно, вот примерный README.md для вашего проекта ядра операционной системы:
 
 ```markdown
 # MyKernel - A Minimalist Operating System Kernel
