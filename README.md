@@ -44,7 +44,7 @@ To build and run MyKernel, you'll need:
 
 ## Running
 
-To run MyKernel in QEMU:
+To run Roughy in QEMU:
 
 ```
 make run
