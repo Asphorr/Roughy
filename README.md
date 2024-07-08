@@ -1,10 +1,10 @@
 
 ```markdown
-# MyKernel - A Minimalist Operating System Kernel
+# Roughy - A Minimalist Operating System Kernel
 
 ## Overview
 
-MyKernel is a minimalist, educational operating system kernel written in C and assembly. It aims to provide a basic understanding of operating system concepts and low-level programming.
+Roughy is a minimalist, educational operating system kernel written in C and assembly. It aims to provide a basic understanding of operating system concepts and low-level programming.
 
 ## Features
 
@@ -34,7 +34,7 @@ To build and run MyKernel, you'll need:
 1. Set up your cross-compiler and ensure it's in your PATH.
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/mykernel.git
+   git clone https://github.com/asphorr/roughy.git
    cd mykernel
    ```
 3. Build the kernel:
