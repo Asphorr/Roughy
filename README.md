@@ -21,7 +21,7 @@ Roughy is a minimalist, educational operating system kernel written in C and ass
 
 ## Prerequisites
 
-To build and run MyKernel, you'll need:
+To build and run Roughy, you'll need:
 
 - A Unix-like operating system (Linux or macOS)
 - GCC cross-compiler for i686-elf
